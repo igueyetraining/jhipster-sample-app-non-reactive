@@ -20,6 +20,7 @@ import org.springframework.web.bind.annotation.*;
 
 /**
  * REST controller for managing the current user's account.
+ * Coment #1
  */
 @RestController
 @RequestMapping("/api")
