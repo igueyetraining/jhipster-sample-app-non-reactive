@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.igueyetraining.\
+    jhipster.config.SqlTestContainersSpringContextCustomizerFactory,com.\
+    igueyetraining.jhipster.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
